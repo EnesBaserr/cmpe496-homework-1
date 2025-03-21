@@ -2,7 +2,7 @@
 
 - **Author**: **Enes Baser - 2020400141**
 
-- For preview image , please check the **editor.png** file in the root directory.
+- For preview image , please check the **editor.png** file in the root directory or click the [link](https://raw.githubusercontent.com/EnesBaserr/cmpe496-homework-1/f681a657901ee88dad3fe2e1fa16572067244476/editor.PNG).
 ## System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
