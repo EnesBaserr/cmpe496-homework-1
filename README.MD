@@ -2,7 +2,7 @@
 
 - **Author**: **Enes Baser - 2020400141**
 
-![Drawing Editor Screenshot](./src/main/java/com/drawingeditor/images/editor.png)
+- For preview image , please check the **editor.png** file in the root directory.
 ## System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
